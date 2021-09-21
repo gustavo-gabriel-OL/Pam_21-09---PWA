@@ -38,7 +38,6 @@ $(document).ready(function(){
       <div class="container"> 
         <div class="row">
             <div class="col-12 col-sm-4 col-md-2">
-                <img src="img/Wanda_cartaz.jpg" alt="wv" title="WandaVision" class="img-fluid">
             </div>
             <div class="col-12 col-sm-8 col-md-10">
                 <h4 class="text-center text-danger " > WandaVision </h4>
@@ -65,7 +64,6 @@ $(document).ready(function(){
       <div class="container"> 
         <div class="row">
           <div class="col-12 col-sm-4 col-md-2">
-                <img src="img/falcon_cartaz.jpg" alt="fs" title="Falcão e o Soldado Invernal" class="img-fluid">
             </div>
             <div class="col-12 col-sm-8 col-md-10">
                 <h4 class="text-center text-secondary" >Falcão e o Soldado Invernal</h4>
@@ -93,7 +91,6 @@ $(document).ready(function(){
       <div class="container"> 
         <div class="row">
          <div class="col-12 col-sm-4 col-md-2">
-                <img src="img/loki_cartaz.jpg" alt="loki vacinado" title="Loki" class="img-fluid">
             </div>
             <div class="col-12 col-sm-8 col-md-10">
                 <h4 class="text-center text-success " > Loki </h4>
@@ -119,7 +116,6 @@ $(document).ready(function(){
       <div class="container"> 
         <div class="row">
           <div class="col-12 col-sm-4 col-md-2">
-                <img src="img/what_cartaz.jpeg" alt="serie de fumado" title="What If...?" class="img-fluid">
             </div>
             <div class="col-12 col-sm-8 col-md-10">
                 <h4 class="text-center text-primary " > What If...? </h4>
