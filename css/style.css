@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+
+body{
+  overflow: hidden;
+}
+
+.imgicon{
+  width: 10rem;
+}
+
+.bg-ori{
+   background: linear-gradient(#FFBF00, #B8860B);
+  height: 108vh;
+}
+
+.bg-wanda{
+  background: linear-gradient(#800000, #242424);
+  height: 108vh;
+}
+
+.bg-fs{
+  background: linear-gradient(#585858, #242424);
+  height: 108vh;
+}
+
+.bg-lk{
+  background: linear-gradient(#2E8B57, #006400);
+  height: 108vh;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Mate SC', serif;
+}
+
+
+.imgmod{
+  width: 107px;
+  padding: 5px;
+}
+
+.imgman{
+  width: 130px;
+  padding: 2px;
+}
+
+.img-logo{
+   width: 200px;
+  padding: 2px;
+}
